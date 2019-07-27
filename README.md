@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/arunscm/np-lds-java/_apis/build/status/arunscm.pipelines-java?branchName=master)](https://dev.azure.com/arunscm/np-lds-java/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
